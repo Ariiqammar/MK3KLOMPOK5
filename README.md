@@ -15,8 +15,17 @@ This website is useful for making it easier for users to find gadget specificati
 
 |   Profile   |   Jobsesk   |
 |-------------|-------------|
-| Ariiq Ammar |    Ketua    |
-| Absen 5     |   Ngoding   |
+| Ariiq Ammar |    Leader    |
+|    Frontend & Backend   |
+|-------------|-------------|
+| Fegi Alyandari |    Report    |
+|-------------|-------------|
+| Nayla Putri Alphabriana |    Report    |
+|-------------|-------------|
+| Rizky Ramadhan Putra Raharjo |    Readme    |
+|-------------|-------------|
+| Zhaldova Guna Saksama |    -    |
+
 
 ## ERD Design
 ![Screenshot 2024-05-27 100023](https://github.com/Ariiqammar/MK3KLOMPOK5/assets/132645146/be0b336f-3aa1-4976-9923-7a2f3b91c1ec)
