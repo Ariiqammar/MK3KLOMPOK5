@@ -1,3 +1,4 @@
+![Screenshot_2024-05-27_103916-removebg-preview](https://github.com/Ariiqammar/MK3KLOMPOK5/assets/132645146/fc61926c-6510-4065-abb2-785db3ad79b4)
 ## About Gadget Landing Page
 
 This website is useful for making it easier for users to find gadget specifications. It provides comprehensive and detailed information on a wide range of gadgets, including smartphones, tablets, laptops, and more. Users can search for specific models, compare different devices, and read expert reviews to help them make informed purchasing decisions. With an intuitive interface and up-to-date data, this platform is an essential resource for anyone looking to stay informed about the latest in gadget technology.
