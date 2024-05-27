@@ -27,11 +27,11 @@ This website is useful for making it easier for users to find gadget specificati
 |---------------|----------------|
 | Search Gadget | You can Search Any gadget with it  |
 |  Search Data  | To view search data   |
-|   |   |
+| CRUD  | gadget specification data  |
 
-## Contributing
+## How to intall the application
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- Apa
 
 ## Code of Conduct
 
