@@ -7,10 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About Gadget Landing Page
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
+This website is useful for making it easier for users to find gadget specifications. It provides comprehensive and detailed information on a wide range of gadgets, including smartphones, tablets, laptops, and more. Users can search for specific models, compare different devices, and read expert reviews to help them make informed purchasing decisions. With an intuitive interface and up-to-date data, this platform is an essential resource for anyone looking to stay informed about the latest in gadget technology.
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
