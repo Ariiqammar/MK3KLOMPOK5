@@ -56,7 +56,7 @@ This website is useful for making it easier for users to find gadget specificati
 
 ## Criticism and suggestions
 
-|   **Send your comments, suggestions and questions to :**   |
+|   ***Send your comments, suggestions and questions to :***   |
 |-------------|
 | ariiqammar14@gmail.com | 
 ## Request New Features and Report Bugs
