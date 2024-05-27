@@ -21,23 +21,13 @@ This website is useful for making it easier for users to find gadget specificati
 ## ERD Design
 ![Screenshot 2024-05-27 100023](https://github.com/Ariiqammar/MK3KLOMPOK5/assets/132645146/be0b336f-3aa1-4976-9923-7a2f3b91c1ec)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+### Application Features
 
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+|  Name Feature |  About Feature |
+|---------------|----------------|
+| Search Gadget | You can Search Any gadget with it  |
+|  Search Data  | To view search data   |
+|   |   |
 
 ## Contributing
 
