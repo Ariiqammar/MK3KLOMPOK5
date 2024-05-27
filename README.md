@@ -1,12 +1,3 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
 ## About Gadget Landing Page
 
 This website is useful for making it easier for users to find gadget specifications. It provides comprehensive and detailed information on a wide range of gadgets, including smartphones, tablets, laptops, and more. Users can search for specific models, compare different devices, and read expert reviews to help them make informed purchasing decisions. With an intuitive interface and up-to-date data, this platform is an essential resource for anyone looking to stay informed about the latest in gadget technology.
@@ -15,8 +6,7 @@ This website is useful for making it easier for users to find gadget specificati
 
 |   Profile   |   Jobsesk   |
 |-------------|-------------|
-| Ariiq Ammar |    Leader    |
-|    Frontend & Backend   |
+| Ariiq Ammar |    Frontend & Backend    |
 |-------------|-------------|
 | Fegi Alyandari |    Report    |
 |-------------|-------------|
@@ -75,3 +65,12 @@ You can request new features or report bugs via the issues menu provided by GitH
 ## Contribute
 
 Anyone can contribute to this project, starting from programming, opening manuals, to introducing this product to students who want to learn to reduce the gap in technology education by posting issues in this repository.
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
