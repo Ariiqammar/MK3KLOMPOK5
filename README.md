@@ -31,16 +31,38 @@ This website is useful for making it easier for users to find gadget specificati
 
 ## How to intall the application
 
-- Apa
+- Download the file
+- Exctract the file
+- Replace into database file
+- Open the file
+- Right Click your mouse
+- Open in terminal
+- Type Code .
+- Open terminal in vs code by clicking " ctrl + ` "
+- Type npm run dev
+- Type PHP artisan serve
+- Click the link below
+- Congratulation you have the application
 
-## Code of Conduct
+## Tools Used
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+- Laragon
+- Visual Studio Code
+- Laravel 9
+- Composer
+- Git
+- Bootstrap
+- Github
 
-## Security Vulnerabilities
+## Criticism and suggestions
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+|   **Send your comments, suggestions and questions to :**   |
+|-------------|
+| ariiqammar14@gmail.com | 
+## Request New Features and Report Bugs
 
-## License
+You can request new features or report bugs via the issues menu provided by GitHub (see menu above), post new issues and we will discuss there.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Contribute
+
+Anyone can contribute to this project, starting from programming, opening manuals, to introducing this product to students who want to learn to reduce the gap in technology education by posting issues in this repository.
