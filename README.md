@@ -11,9 +11,10 @@
 
 This website is useful for making it easier for users to find gadget specifications. It provides comprehensive and detailed information on a wide range of gadgets, including smartphones, tablets, laptops, and more. Users can search for specific models, compare different devices, and read expert reviews to help them make informed purchasing decisions. With an intuitive interface and up-to-date data, this platform is an essential resource for anyone looking to stay informed about the latest in gadget technology.
 
-| Profile | Jobsesk |
-|---------|---------|
-| Nama    | Absen   |
+|   Profile   |   Jobsesk   |
+|-------------|-------------|
+| Ariiq Ammar |    Ketua    |
+| Absen 5     |   Ngoding   |
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
