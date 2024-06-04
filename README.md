@@ -15,7 +15,7 @@ This website is useful for making it easier for users to find gadget specificati
 |-------------|-------------|
 | Rizky Ramadhan Putra Raharjo |    Readme    |
 |-------------|-------------|
-| Zhaldova Guna Saksama |    -    |
+| Zhaldova Guna Saksama |    Ideas and inspiration    |
 
 
 ## ERD Design
